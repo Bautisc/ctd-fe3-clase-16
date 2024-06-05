@@ -13,9 +13,6 @@ const Navbar = () => {
             <Link to={routes.contacto}>
                 <h4>Contact</h4>
             </Link>
-            <Link to={routes.beer}>
-                <h4>Beers</h4>
-            </Link>
         </div>
     )
 }
