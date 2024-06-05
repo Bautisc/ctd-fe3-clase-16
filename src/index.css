@@ -3,6 +3,7 @@
   font-size: 16px;
   line-height: 24px;
   font-weight: 400;
+    margin:  0px;
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
@@ -29,7 +30,9 @@ nav{
 .logo{
   width: 80px;
 }
-
+body {
+    margin: 0px;
+}
 nav > a {
   margin-left: 1rem;
   text-decoration: none;
